@@ -67,10 +67,12 @@ public class Adapter extends RecyclerView.Adapter<Adapter.mViewHolder> {
             public void onClick(View v) {
                 Intent intent = new Intent(context, ScrollingActivity.class);
                 intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-                intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                 intent.putExtra("movie_title", result.title);
                 intent.putExtra("poster_path", result.backdrop_path);
                 intent.putExtra("description", result.overview);
+                intent.putExtra("release", result.release_date);
+                intent.putExtra("original", result.original_language);
+                intent.putExtra("popularity", result.popularity);
                 context.startActivity(intent);
             }
         });

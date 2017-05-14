@@ -35,5 +35,6 @@ public class ScrollingActivity extends AppCompatActivity {
                 .into(detail);
         deskripsi.setText(desc);
 
+
     }
 }
