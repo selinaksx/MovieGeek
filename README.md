@@ -1,6 +1,6 @@
 # Movie App Project
 
-### A. Nama Project
+### A. NAMA PROJECT
 
 <br>
 
@@ -8,12 +8,12 @@
 
 <br>
 
-#### B. Link File Apk 
+#### B. LINK FILE APK
 <P> https://drive.google.com/open?id=0B8wMRbD_xFdiMnlyZjExZVduQTA </P>
 
 <br>
 
-### C. Data Diri
+### C. DATA DIRI
 - Nama          : Selina Kusmiawati
 - Kelas         : XI RPL 3
 - No. Urut      : 32
