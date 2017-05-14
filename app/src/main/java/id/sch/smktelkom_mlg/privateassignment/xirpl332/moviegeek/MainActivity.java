@@ -87,15 +87,15 @@ public class MainActivity extends AppCompatActivity
     private void changePage(int id) {
         Fragment fragment = null;
         if (id == R.id.nav_nowplaying) {
-            fragment = new NowPlayingFragment();
+            fragment = new HomeFragment();
             setTitle("Now Playing");
         } else if (id == R.id.nav_comingsoon) {
             fragment = new ComingSoonFragment();
             setTitle("Coming Soon");
         } else if (id == R.id.nav_favorites) {
             fragment = new FavoritesFragment();
+            setTitle("Favorites");
         }
-        setTitle("Favorites");
 
         getSupportFragmentManager().beginTransaction().replace(R.id.container, fragment).commitNow();
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
