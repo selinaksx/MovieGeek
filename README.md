@@ -8,7 +8,7 @@
 
 <br>
 
-#### B. LINK FILE APK
+### B. LINK FILE APK
 <P> https://drive.google.com/open?id=0B8wMRbD_xFdiMnlyZjExZVduQTA </P>
 
 <br>
@@ -39,7 +39,7 @@
 
 <br>
 
-### F. DERKRIPSI APLIKASI
+### F. DESKRIPSI APLIKASI
 
 <br>
 
