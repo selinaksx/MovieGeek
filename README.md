@@ -43,7 +43,7 @@
 
 <br>
 
-<P> Aplikasi MovieGeek ini adalah aplikasi yang sangat membantu para pecinta film untuk mendapatkan informasi terbaru tentang film. Aplikasi ini memiliki fitur - fitur yang menarik seperti Now Playing yang mneyuguhkan daftar film yang sedang tayang saat ini. Lalu ada Coming Soon yang berisi daftar film yang akan tayang. Ada lagi fitur menarik yaitu Faovorites dimana user bisa menyimpan daftar film favorit mereka. Aplikasi ini memiliki banyak daya tarik untuk dimiliki para pecinta film. </P>
+<P> Aplikasi MovieGeek ini adalah aplikasi yang sangat membantu para pecinta film untuk mendapatkan informasi terbaru tentang film. Aplikasi ini memiliki fitur - fitur yang menarik seperti Now Playing yang menyuguhkan daftar film yang sedang tayang saat ini. Lalu ada Coming Soon yang berisi daftar film yang akan tayang. Ada lagi fitur menarik yaitu Favorites dimana user bisa menyimpan daftar film favorit mereka. Aplikasi ini memiliki banyak daya tarik untuk dimiliki para pecinta film. </P>
 
 <br>
 
