@@ -80,7 +80,6 @@
  </p>
  <p align="center">
    <img src="https://cloud.githubusercontent.com/assets/22047581/26036002/e560e846-38ff-11e7-88e4-15ba1543ff21.png" width="350"/>  
+   <img src="https://user-images.githubusercontent.com/22047581/27069081-56a46b32-503d-11e7-9a09-34bd7386c87d.png" width="350"/>
  </p>
- <p align="center">
-   <img src="https://user-images.githubusercontent.com/22047581/27069081-56a46b32-503d-11e7-9a09-34bd7386c87d.png" width="350"/>  
- </p>
+
