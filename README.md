@@ -16,10 +16,6 @@
 ### C. DATA DIRI
 - Nama          : Selina Kusmiawati
 - Kelas         : XI RPL 3
-- No. Urut      : 32
-- NIS           : 4829/1548.070
-- Angkatan      : 24
-- Nama Sekolah  : SMK Telkom Malang
 
 <br>
 
